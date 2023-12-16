@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm Aadish, a tech-savvy professional experienced in AI/ML, Product Management, UI/UX Design, IT Support (Google), Android/Frontend Development, and Photography. My passion lies in using technology to drive positive change. Let's collaborate on innovative projects that create meaningful experiences for users";
+"Meet Your Digital Architect: A Web and App Developer Shaping Seamless Experiences";
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
@@ -44,8 +44,8 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
-
+  
+"I am a dedicated web and app developer with a passion for creating seamless digital experiences. With a strong foundation in coding and a keen eye for design, I specialize in turning ideas into user-friendly and visually appealing websites and applications. My commitment to staying current with the latest technologies ensures that I deliver cutting-edge solutions. Let's collaborate to bring your digital vision to life!";
 const About = () => {
   return (
     <section className="padding" id="about">
