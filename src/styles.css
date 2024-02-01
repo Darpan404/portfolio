@@ -123,3 +123,12 @@ img.socialIcon {
   height: 30px;
   width: 30px;
 }
+@media (max-width: 768px) {
+            .container {
+                padding: 10px;
+            }
+
+            header, main, footer {
+                padding: 10px;
+            }
+        }
